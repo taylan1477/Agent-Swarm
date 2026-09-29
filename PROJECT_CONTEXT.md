@@ -9,6 +9,9 @@ Agent Swarm, tek bir güçlü bilgisayar (HP Victus 16 - i5-13500H, RTX 4060, 32
 
 Ana kokpit olarak Windows üzerindeki **JetBrains Rider** kullanılırken, arka planda **WSL2 (Ubuntu 24.04)** üzerinde izole `tmux` oturumları ve `aider-chat` ajanları çalışır.
 
+- **GitHub Reposu:** `https://github.com/taylan1477/Agent-Swarm`
+- **Yerel Klasör:** `C:\Projeler\HelperTools\Agent-Swarm`
+
 ---
 
 ## 🏛️ Mimari Bileşenler
